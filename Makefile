@@ -1,6 +1,7 @@
 # You can adjust the toolchain as you need
 #TOOLCHAIN_PATH = ~/toolchain/asdk-4.8.1-a7-EL-3.10-0.9.33-a32nt-130828/
-TOOLCHAIN_PATH = /home/flash/Realtek-1195/TRUNK/SDK/bootcode/tmp/asdk-4.8.1-a7-EL-3.10-0.9.33-a32nt-130828/
+#TOOLCHAIN_PATH = /home/flash/Realtek-1195/TRUNK/SDK/bootcode/tmp/asdk-4.8.1-a7-EL-3.10-0.9.33-a32nt-130828/
+TOOLCHAIN_PATH = /usr/local/cross-tool
 
 CROSS_COMPILER = arm-linux
 #CROSS_COMPILER = arm-linux-gnueabihf
